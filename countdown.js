@@ -1,4 +1,4 @@
-var dateToEnd = new Date(2022,0,04,00,00,00).getTime();
+var dateToEnd = new Date(2021,3,14,00,00,00).getTime();
 var dateNow = new Date().getTime();
 var timeFlag = 1;
 var flag,days,hours,minutes,seconds;
