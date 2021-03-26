@@ -1,0 +1,49 @@
+body{
+  background-color: #0F0C08;
+}
+.main{
+  display: inline-block;
+  border:thick double #32a1ce;
+  border-radius: 5px;
+  padding: 25px;
+  margin: 1px;
+  position: fixed;
+  top: 35%;
+  left: 20%;
+
+}
+
+.head{
+  color: #fdb827;
+  display: inline-block;
+  font-family: 'Syne Mono', monospace;
+}
+
+.display{
+  display: inline-block;
+  color: #dddddd;
+}
+
+.days{
+  display: inline;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.hours{
+  display: inline;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.minutes{
+  display: inline;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.seconds{
+  display: inline;
+  font-family: 'Work Sans', sans-serif;
+}
+.colon{
+  display: inline;
+  font-family: 'Work Sans', sans-serif;
+}
